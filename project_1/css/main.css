@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* css */
+.profile-div{
+    background:  white;
+    padding: 8px;
+    border: 2px solid rgb(47, 134, 241);
+    border-radius: 10px;
+    width: 110px;
+    height: 110px;
+}
+h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.description-div{
+    background: white;
+    padding: 8px;
+    border: 2px solid rgb(47, 134, 241);
+    border-radius: 10px;
+    height: 110px;
+}
